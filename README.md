@@ -57,3 +57,7 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 -  FUNCTIONAL REQUIREMENTS [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%202/Functional%20Requirements-1.pdf)
 -  CUSTOMER JOURNEY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%202/customer%20journey%20map.pdf)
 -  TECHNOLOGY STACK [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%202/Technology%20Stack.pdf)
+
+## PROJECT PLANNING:
+
+-  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Sprint%20Delivery%20Plan%20(1).pdf)
