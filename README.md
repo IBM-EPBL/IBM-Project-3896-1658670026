@@ -62,3 +62,9 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 -  MILESTONE ACTIVITY CHART [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Milestone%20Activity%20Chart.pdf)
 -  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Sprint%20Delivery%20Plan%20(1).pdf)
+
+## PROJECT DEVELOPMENT PHASE:
+
+-  SPRINT 1 [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%201/Sprint%20.1.pdf)
+-  SPRINT 2 [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%202/Sprint%20.2.pdf)
+-  SPRINT 3 [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%203/Sprint-3.pdf)
