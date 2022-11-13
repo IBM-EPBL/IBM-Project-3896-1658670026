@@ -73,3 +73,10 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 ## FINAL DELIVARABLES:
 
 -  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/FINAL%20DELIVARABLES/SOURCE%20CODE)
+
+![Logo](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
+</picture> in India | CB Veerakumar | Info Institute of Engineering Coimbatore | IBM</h5>
