@@ -74,6 +74,17 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 -  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/FINAL%20DELIVARABLES/SOURCE%20CODE)
 
+## CONTRIBUTION:
+
+![](https://svgur.com/i/nQ2.svg)
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
 ![Logo](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
 <div align="center">
  <h5> Made with <picture>
