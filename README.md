@@ -31,7 +31,7 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 
 ## CREW MEMBERS:
-- VEERAKUMAR CB (TEAM LEADER)  [Assignment Link ](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/VEERAKUMAR%20C%20B)
+- <b>VEERAKUMAR CB (TEAM LEADER)</b>  [Assignment Link ](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/VEERAKUMAR%20C%20B)
  - SRIKANTH S   [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/SRIKANTH%20S)
 - DURGADEVI B   [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/DURGA%20DEVI%20B)
 - YOGAPRIYA S   [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/YOGAPRIYA%20S)
