@@ -6,6 +6,10 @@
 # AI BASED DISCOURSE FOR BANKING INDUSTRY
 ## TEAM ID:
 PNT2022TMID42533
+
+## PROJECT WEBSITE: 
+### BOT SITE BANKING [CLICK HERE TO VIEW 🤖](https://veerak541.github.io/chatbot/)
+
 ## DESCRIPTION:
 
 
@@ -36,6 +40,20 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 - DURGADEVI B   [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/DURGA%20DEVI%20B)
 - YOGAPRIYA S   [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/tree/main/Assignments/YOGAPRIYA%20S)
 
+## PROJECT PRE-REQUISITES & OBJECTIVES:
+
+- PRE-REQUISITES [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Prerequisite.pdf)
+- PROJECT OBJECTIVES [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/project%20objectives.pdf)
+
+## CREATING SKILLS & ASSISTANT FOR CHATBOT:
+
+-  CHATBOT SKILL CREATION [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/CREATING%20SKILLS%20%26%20ASSISTANT%20FOR%20CHATBOT/Chatbot%20Skills%20Creation.pdf)
+-  CREATING SAVING ACCOUNT [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/CREATING%20SKILLS%20%26%20ASSISTANT%20FOR%20CHATBOT/Creating%20Saving%20Account%20Section.pdf)
+-  CREATING CURRENT ACCOUNT [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/CREATING%20SKILLS%20%26%20ASSISTANT%20FOR%20CHATBOT/creating%20current%20account%20action.pdf)
+-  CREATING LOAN ACCOUNT [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/CREATING%20SKILLS%20%26%20ASSISTANT%20FOR%20CHATBOT/Creating%20Loan%20Account%20Action.pdf)
+-  NET BANKING ACTION [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/CREATING%20SKILLS%20%26%20ASSISTANT%20FOR%20CHATBOT/Net%20Banking%20Action.pdf)
+-  GENERAL QUERY ACTION [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/CREATING%20SKILLS%20%26%20ASSISTANT%20FOR%20CHATBOT/Creating%20General%20Query%20Action.pdf)
+
 ## PROJECT IDEATION:
 
 - EMPATHY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/IDEATION%20PHASE/Empathy%20Map/Empathy%20Mapping.pdf)
@@ -60,7 +78,7 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 ## PROJECT PLANNING:
 
--  MILESTONE ACTIVITY CHART [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Milestone%20Activity%20Chart.pdf)
+-  MILESTONE ACTIVITY CHART [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Milestone%20and%20Activity%20List.pdf)
 -  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Sprint%20Delivery%20Plan%20(1).pdf)
 
 ## PROJECT DEVELOPMENT PHASE:
@@ -70,12 +88,18 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 -  SPRINT 3 [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%203/Sprint-3.pdf)
 -  SPRINT 4 [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%204/Sprint%20-%2004.pdf)
 
-#### BURNDOWN CHART IMAGES:
+#### JIRA SOFTWARE BURNDOWN CHART IMAGES:
 
 - SPRINT 1 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%201/Sprint_1_Burndown_Chart.png)
 - SPRINT 2 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%202/Sprint_2_Burndown_Chart.png)
 - SPRINT 3 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%203/Sprint_3_Burndown_Chart.png)
 - SPRINT 4 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%204/Sprint_4_Burndown_Chart.png)
+
+## TESTING:
+
+-  TEST CASE REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/TESTING/Testcase%20Report.pdf)
+-  USER ACCEPTANCE INITIATION REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/TESTING/User%20Acceptance%20Initiation%20and%20Desgin.pdf)
+-  USER ACCEPTANCE EXECUTION REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-3896-1658670026/blob/main/PROJECT%20DEVELOPMENT%20PHASE/TESTING/UAT%20Report.pdf)
 
 ## FINAL DELIVARABLES:
 
