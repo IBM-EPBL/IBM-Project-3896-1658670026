@@ -7,10 +7,9 @@
 ## TEAM ID:
 PNT2022TMID42533
 
-## PROJECT WEBSITE: 
-### BOT SITE BANKING [CLICK HERE TO VIEW 🤖](https://veerak541.github.io/chatbot/)
-
-## PROJECT DEMO VIDEO:
+## PROJECT WEBSITE & VIDEO:
+### BOT SITE BANKING [CLICK HERE TO VIEW PROJECT WEBSITE 🤖](https://veerak541.github.io/chatbot/)
+### PROJECT DEMO VIDEO:
 
 <img src="https://user-images.githubusercontent.com/113326623/202532710-04b3376a-aa43-4134-8065-7f1128b51f91.mp4" width=600 height=300>
 
